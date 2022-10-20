@@ -47,7 +47,7 @@
   
   .resume .resume_left .resume_profile img {
       width: 68%;
-      min-height: 3%;
+      min-height: 1%;
       margin-left: 15%;
       border-radius: 60%;
       border: 3px solid black
@@ -62,7 +62,7 @@
   }
   
   .resume .resume_left .bold {
-    color: #fff;
+    color: rgb(18, 194, 179);
   }
   
   .resume .resume_left .regular {
@@ -110,7 +110,7 @@
   
   .resume .resume_left ul li .data {
     color:black;
-    font-size:16px;
+    font-size:18px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
   
@@ -124,7 +124,7 @@
   
   .resume .resume_left .resume_skills ul li .skill_name {
     width: 25%;
-    font-size: 13px;
+    font-size: 1px;
   }
   
   .resume .resume_left .resume_skills ul li .skill_progress {
