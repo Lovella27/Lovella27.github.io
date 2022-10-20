@@ -42,12 +42,12 @@
   
   .resume .resume_left .resume_profile {
      width: 100%;
-    border-bottom: 1px solid #f7f7f7;
+    border-bottom: 3px solid #f7f7f7;
   }
   
   .resume .resume_left .resume_profile img {
       width: 68%;
-      min-height: 1%;
+      min-height: 5%;
       margin-left: 15%;
       border-radius: 60%;
       border: 3px solid black
