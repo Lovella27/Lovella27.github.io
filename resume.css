@@ -24,7 +24,7 @@
   }
   
   .semi-bold {
-    font-weight: 500;
+    font-weight: 400;
     font-size: 18px;
   }
   
@@ -37,7 +37,7 @@
   
   .resume .resume_left {
     width: 350px;
-    background:rgb(7, 204, 230);
+    background:rgb(235, 44, 219);
   }
   
   .resume .resume_left .resume_profile {
@@ -54,7 +54,7 @@
   }
   
   .resume .resume_left .resume_content {
-    padding: 25px;
+    padding: 30px;
   }
   
   .resume .title {
